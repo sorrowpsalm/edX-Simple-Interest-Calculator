@@ -1,4 +1,4 @@
-function addOption()
+/* function addOption()
 {
     var min = 2,
         max = 40,
@@ -11,7 +11,7 @@ function addOption()
         opt.innerHTML = i;
         select.appendChild(opt);
     }
-}
+} */
 
 function updateRateValue(rate) 
 {
