@@ -24,6 +24,7 @@ function validate()
     if(P<1 || P=="")
     {
         alert("Enter a positive number");
+        document.getElementById("principal").focus();
         return false;
     }
     return true;
