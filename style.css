@@ -1,4 +1,34 @@
-body {background-color:tan;}
-h1{color:green;}
+body
+{
+    background-color:black;
+    padding-left: 1in;
+    padding-right: 1in;
+    font-family:Arial, Helvetica, sans-serif;
+}
 
+div
+{
+    background-color: white;
+    border-radius: 25px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.flex-container
+{
+    display: flex;
+    padding-left: 4cm;
+    flex-direction: row;
+    padding-bottom: 0px;
+}
+
+h1
+{
+    color: grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+output
+{
+    background-color: yellow
+}
 
